@@ -4,9 +4,9 @@ function App() {
 
   return (
     <>
-      <h1>My Personal Portfolio Website V1</h1>
+      <h1 className='font-bold text-xl'>My Personal Portfolio Website V1</h1>
       <div className="card">
-        <p>Under Construction</p>
+        <p className='font-bold text-[yellow]'>Under Construction</p>
       </div>
     </>
   )
